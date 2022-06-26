@@ -1,0 +1,17 @@
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket.exe
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket.deps.json
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket.runtimeconfig.json
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket.dll
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket.pdb
+C:\Users\THIAGO\source\repos\websocket\websocket\bin\Debug\net6.0\websocket-sharp-core.dll
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.csproj.AssemblyReference.cache
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.AssemblyInfoInputs.cache
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.AssemblyInfo.cs
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.csproj.CopyComplete
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.dll
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\refint\websocket.dll
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.pdb
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\websocket.genruntimeconfig.cache
+C:\Users\THIAGO\source\repos\websocket\websocket\obj\Debug\net6.0\ref\websocket.dll
