@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+</head>
+<body>
+    <button onclick="add()">Add</button>
+    <script>
+        let id = 0;
+        function add()
+        {
+            id++;
+            let div = document.createElement('div');
+            div.id = id;
+            div.innerHTML = `
+            <label>Name</label><br>
+            <input type="text" name="name" value="" id="name_${id}"><br>
+            <button onclick="connect(${id})">Connect</button><br>
+            <textarea id="content_${id}"></textarea>`;
+            document.body.appendChild(div);
+        }
+        function connect(id)
+        {
+            const [name, content] =[
+                document.getElementById(`name_${id}`),
+                document.getElementById(`content_${id}`)
+            ] 
+            var socket = new WebSocket('ws://localhost:7890/PosicaoNotificacacao?token=' + name.value);
+            // socket.onopen = function() {
+            // // alert('handshake successfully established. May send data now...');
+            // socket.send("Hi there from browser.");
+            // };
+            socket.onmessage = function (evt) {
+                    //alert("About to receive data");
+                    content.innerHTML += evt.data + '\n';
+                };
+            // socket.onclose = function() {
+            //     document.write('connection closed');
+            // };
+        }
+    </script>
+    <style>
+        textarea, input{
+            width: 100%;
+            padding: 5px;
+            margin: 10px;
+        }
+        textarea{
+            height: 100px;
+        }
+    </style>
+</body>
+</html>

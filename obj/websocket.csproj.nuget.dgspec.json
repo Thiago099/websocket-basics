@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\websocket.csproj": {}
+    "D:\\Bibliotecas\\Downloads\\websocket-basics\\websocket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\websocket.csproj": {
+    "D:\\Bibliotecas\\Downloads\\websocket-basics\\websocket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\websocket.csproj",
+        "projectUniqueName": "D:\\Bibliotecas\\Downloads\\websocket-basics\\websocket.csproj",
         "projectName": "websocket",
-        "projectPath": "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\websocket.csproj",
+        "projectPath": "D:\\Bibliotecas\\Downloads\\websocket-basics\\websocket.csproj",
         "packagesPath": "C:\\Users\\THIAGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\obj\\",
+        "outputPath": "D:\\Bibliotecas\\Downloads\\websocket-basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

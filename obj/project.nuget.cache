@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0M9KJQZDJ0H7gYt++Yj9lyK5g9LSpHITCBhVu6S7n/14At/AYk+BGch2BZ1joVbavXY3FFCpFqCw1APRDu7Z9w==",
+  "dgSpecHash": "6r58mOicyElQrIxLMXyFL9cazKjkpFYH2D0Q30l1C3JfD34hGQ10YYb66mqYLkStPpJ+jh1njp3tSkE1mA/asw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\THIAGO\\source\\repos\\websocket\\websocket\\websocket.csproj",
+  "projectFilePath": "D:\\Bibliotecas\\Downloads\\websocket-basics\\websocket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\THIAGO\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
   ],
